@@ -1,0 +1,2 @@
+model_name,item_mae,item_rmse,item_r2,item_mae_mean_ratio_pct,daily_mae,daily_rmse,daily_r2,daily_mae_mean_ratio_pct
+RandomForestRegressor Fast - Loaded,0.6132981855544547,0.7465961570502556,0.03826357951904025,41.1136143364863,9.079709158813978,10.592607107113045,0.43047729921502764,5.147584736571618

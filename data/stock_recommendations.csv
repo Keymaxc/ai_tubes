@@ -1,0 +1,283 @@
+date,outlet,category,product,variant,predicted_demand,estimated_current_stock,safety_stock,recommended_stock,restock_qty,status,recommended_action
+2025-10-01,SHOP001,Menu Gedhe,Green Thai Tea (Gedhe),-,2.108605289044956,2.0,2.0,5.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Menu Gedhe,BLACK,-,1.9377853503044442,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Menu Gedhe,WHITE,-,1.8866883443332285,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Tea,Moody,-,1.8788267572155177,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Cappuccino,Hot Arabica,1.857400653527166,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Snacks,Gula Gula,-,1.8553639115968803,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Other,Black Rice,Hot,1.8484643826061729,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Other,Lemons,-,1.8396619684418034,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Snacks,Banana Bread,Original,1.8349738997211418,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Vanilla Latte,-,1.8237676815573942,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Menu Gedhe,WHITE,Arabica,1.8224285921561736,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Menu Gedhe,Biru (Gedhe),-,1.8172268173741224,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Butterscotch,-,1.8100411960814342,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Snacks,Croffle,-,1.810039870657715,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Menu Gedhe,WHITE,Houseblend,1.8098545753414528,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Friendly Coffee,Hot,1.8089506586480428,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Happy Moca,Ice,1.8050942415288254,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Cold Brew,-,1.8045265528993035,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Snacks,Banana Bread,Chocolate,1.8022580527777396,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Other,Red Liquid,-,1.8008427250670567,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Americano,Ice Houesblend,1.7954039336558998,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Other,Sunset,-,1.795296620353139,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Other,Jus Semangka,-,1.785792678732854,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Other,Matcha Latte,Ice,1.7822320168784234,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Menu Gedhe,Butterscotch Latte (Gedhe),-,1.7818533029434405,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Tea,Green Thai Tea,-,1.7777403577471034,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Apple Pie Latte,-,1.7748677819398084,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Other,Forbidden Berry,-,1.772489891544769,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Snacks,Nutella Meses,-,1.771800855078657,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Cappuccino,Ice Arabica,1.7715752594562366,3.0,2.0,4.0,1,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Other,Matcha Latte,Hot,1.7697105206168309,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Friendly Coffee,Ice double shot,1.7692870053468939,3.0,2.0,4.0,1,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Candy Latte,-,1.7686661257967529,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Other,Creamy Klepon,-,1.762473639432025,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Add on,Upgrade Beans (Arabica),-,1.7615753235580696,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Add on,Extra Shot,Arabica,1.7606095826506964,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Basic Latte,Hot Arabica,1.7589730459559574,3.0,2.0,4.0,1,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Tea,Lemon Tea,Ice,1.757454866443853,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Snacks,Donat Polos,-,1.755635970727084,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Other,Creamy Klepon,-,1.7512192454180686,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Shakencano,-,1.7438332815637492,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Friendly Coffee,Ice,1.741715593715829,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Tea,Soft Tea,-,1.7375285742879933,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Basic Latte,Ice Houseblend,1.7345792738516403,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Hazelnut Latte,-,1.73077058732875,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Cappuccino,Ice Houseblend,1.7297063930063512,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Americano,Hot Arabica,1.7285994648141343,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Other,Air Mineral,-,1.72264704460409,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Menu Gedhe,Matchapresso (Gedhe),-,1.7206769710624996,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Espresso Arabica,On The Rock,1.713608631533537,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Americano,Hot Houseblend,1.7131404387132574,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Biru,-,1.7124729704729018,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Menu Gedhe,Not Tiramisu Latte (Gedhe),-,1.710006071714302,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Tea,Lemon Tea,Hot,1.7085349206620046,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Tea,Jasmine,Ice,1.7004550701608525,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Basic Latte,Hot Houseblend,1.6963776327897542,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Friendly Coffee,Hot double shot,1.693881669886553,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Tea,Red Apple,-,1.693615626853001,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Tea,Thai Tea,-,1.6932638665975315,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Menu Gedhe,BLACK,Arabica,1.692638119041623,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Not Tiramisu Latte,-,1.6913195921429283,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Espresso Arabica,Basic Espresso,1.6909108408998141,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Tea,Summer,-,1.689171150456821,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Menu Gedhe,Matcha Latte (Gedhe),-,1.6887297633263387,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Menu Gedhe,Thai Tea (Gedhe),-,1.686934806213503,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Menu Gedhe,Chocolate (Gedhe),-,1.6844468989688601,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Sitrus Cafe,-,1.6840214192376113,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Tea,Thai Tea,-,1.683828109592518,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Menu Gedhe,Hazelnut Latte (Gedhe),-,1.6833527815150355,3.0,2.0,4.0,1,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Menu Gedhe,Friendly Coffee (Gedhe),-,1.6816684352480196,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Menu Gedhe,Vanilla Latte (Gedhe),-,1.6777137416971124,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Snacks,Burnt Sugar,-,1.6717408787086456,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Menu Gedhe,Apple Pie Latte (Gedhe),-,1.668808647936137,3.0,2.0,4.0,1,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Americano,Ice Arabica,1.6643720364432417,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Sitrus Cafe,-,1.6643382323408376,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Other,Creamy Chocolate Cake,-,1.6598437036514218,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Other,Chocolate,Ice,1.6589130996228025,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Menu Gedhe,BLACK,-,1.655034345112192,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Tea,Chamomile,-,1.6541738405663122,3.0,2.0,4.0,1,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Menu Gedhe,Green Thai Tea (Gedhe),-,1.6532087010950272,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Add on,Susu Oat,-,1.6509910112126476,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Other,Berry Cake,-,1.6499587420176167,3.0,2.0,4.0,1,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Espresso Houseblend,Basic Espresso,1.646434289656027,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Snacks,Pisang Coklat,-,1.6406837725706434,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Snacks,Banana Bread,Original,1.6405244851753862,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Menu Gedhe,BLACK,Houseblend,1.640401254096111,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Happy Moca,Hot,1.6399009272102543,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Other,Chocolate,Ice,1.6397596230409175,3.0,2.0,4.0,1,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Snacks,Gula Gula,-,1.6355361752889004,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Menu Gedhe,BLACK,Arabica,1.6304854306599352,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Menu Gedhe,Matchapresso (Gedhe),-,1.625407845053218,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Menu Gedhe,BLACK,Houseblend,1.6247732695100405,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Matchapresso,-,1.6226562211186688,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Apple Pie Latte,-,1.6225189714400738,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Other,Creamy Chocolate Cake,-,1.6214154812509078,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Other,Chocolate,Hot,1.6209027507942837,3.0,2.0,4.0,1,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Other,Black Rice,Ice,1.6183052836134637,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Basic Latte,Ice Arabica,1.6176727996002966,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Menu Gedhe,Not Tiramisu Latte (Gedhe),-,1.612540228697907,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Cappuccino,Hot Arabica,1.612523739045642,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Add on,Extra Shot,Houseblend,1.6123768387222122,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Tea,Jasmine,Hot,1.606511290860638,3.0,2.0,4.0,1,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Matcha Espresso,-,1.6064089422093355,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Espresso Houseblend,On The Rock,1.604935543757028,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Tea,Nostaltea,-,1.6037611049422613,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Tea,Chamomile,-,1.6004194635179385,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Coffee,Cappuccino,Hot Houseblend,1.593727130069587,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Friendly Coffee,Hot double shot,1.5925729793217087,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Snacks,Waffle,-,1.5911336895163475,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Snacks,Nutella Meses,-,1.590962912871644,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Menu Gedhe,Candy Latte (Gedhe),-,1.5899505248623742,3.0,2.0,4.0,1,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Happy Moca,Hot,1.5866885902184982,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Menu Gedhe,Apple Pie Latte (Gedhe),-,1.585727889385786,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Other,Black Rice,Hot,1.584072345176942,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Other,Jus Semangka,-,1.5836977929108829,3.0,2.0,4.0,1,Restock,Tambah stok/produksi
+2025-10-01,SHOP001,Tea,Green Apple,-,1.5798309360292375,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Other,Chocolate,Hot,1.5769919026491188,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Tea,Jasmine,Hot,1.5769462516366075,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Basic Latte,Hot Arabica,1.5749229646156715,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Friendly Coffee,Hot,1.571522281610121,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Other,Red Liquid,-,1.5704361898522867,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Americano,Hot Arabica,1.5690794224148987,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Other,Berry Cake,-,1.5679134127010246,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Menu Gedhe,Butterscotch Latte (Gedhe),-,1.567181553378682,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Snacks,Banana Bread,Original,1.5647203158644538,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Other,Matcha Latte,Ice,1.564325551215328,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Friendly Coffee,Ice double shot,1.5642324448750429,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Tea,Jasmine,Ice,1.5639943157010774,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Menu Gedhe,Chocolate (Gedhe),-,1.562581735925612,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Other,Black Rice,Ice,1.562056759659687,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Add on,Extra Shot,Arabica,1.5598366194841151,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Snacks,Pisang Coklat,-,1.552169849671189,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Tea,Lemon Tea,Hot,1.5505822205392974,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Snacks,Croffle,-,1.5503825297146563,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Menu Gedhe,WHITE,Houseblend,1.550220224643265,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Other,Lemons,-,1.5497547760552777,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Espresso Arabica,Basic Espresso,1.5485642147148087,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Tea,Soft Tea,-,1.548035916513869,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Add on,Upgrade Beans (Arabica),-,1.5466862865416846,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Snacks,Waffle,-,1.544064602148089,3.0,2.0,4.0,1,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Americano,Ice Houesblend,1.5416301307295288,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Menu Gedhe,WHITE,-,1.5411202943593372,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Butterscotch,-,1.5407722351825999,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Menu Gedhe,Thai Tea (Gedhe),-,1.5353613762485412,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Espresso Arabica,On The Rock,1.5351154207382611,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Cappuccino,Ice Arabica,1.534768942042975,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Cappuccino,Hot Houseblend,1.526652430821179,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Not Tiramisu Latte,-,1.5200289006570538,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Happy Moca,Hot,1.5188575865431455,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Espresso Houseblend,On The Rock,1.5164814002215954,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Tea,Green Apple,-,1.5138960733185867,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Tea,Summer,-,1.5129784678471976,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Basic Latte,Ice Arabica,1.5068490262192682,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Menu Gedhe,Hazelnut Latte (Gedhe),-,1.5057260528046044,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Add on,Susu Oat,-,1.5041186327451326,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Other,Air Mineral,-,1.5030197074714793,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Biru,-,1.5021628969740106,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Happy Moca,Ice,1.5021357865551443,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Americano,Hot Houseblend,1.5005211876794682,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Hazelnut Latte,-,1.4992718346105591,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Menu Gedhe,WHITE,Arabica,1.4934499646329829,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Tea,Red Apple,-,1.493174271666954,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Americano,Ice Arabica,1.490978545088987,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Vanilla Latte,-,1.4904670494106094,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Matchapresso,-,1.4904487771056802,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Menu Gedhe,WHITE,Arabica,1.489129034358615,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Americano,Ice Houesblend,1.4891028189459712,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Menu Gedhe,Thai Tea (Gedhe),-,1.488546850228918,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Snacks,Banana Bread,Chocolate,1.487512689537979,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Happy Moca,Ice,1.4861685550193762,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Other,Matcha Latte,Hot,1.4816332085665902,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Menu Gedhe,Biru (Gedhe),-,1.4810107855039212,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Snacks,Donat Polos,-,1.4756307768033117,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Tea,Lemon Tea,Ice,1.4746054836626945,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Matcha Espresso,-,1.4724371865940116,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Espresso Houseblend,On The Rock,1.4724033741832738,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Menu Gedhe,WHITE,-,1.4719578184306488,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Menu Gedhe,Vanilla Latte (Gedhe),-,1.4697597294640645,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Tea,Nostaltea,-,1.4678562021054933,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Sitrus Cafe,-,1.4656851160604438,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Other,Red Liquid,-,1.4656232939218616,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Matcha Espresso,-,1.4650601789199542,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Friendly Coffee,Ice,1.4648208210240141,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Cold Brew,-,1.4624676581727099,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Espresso Houseblend,Basic Espresso,1.4618452041292498,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Menu Gedhe,Friendly Coffee (Gedhe),-,1.4604265222958412,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Other,Forbidden Berry,-,1.4600359770545834,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Americano,Ice Arabica,1.4592155096058599,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Cold Brew,-,1.45763353162032,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Snacks,Burnt Sugar,-,1.455115894479648,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Tea,Green Thai Tea,-,1.4545620639850931,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Cappuccino,Ice Houseblend,1.4542889769436094,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Menu Gedhe,Matcha Latte (Gedhe),-,1.4538077796695945,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Add on,Extra Shot,Houseblend,1.4530455639256576,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Friendly Coffee,Ice,1.452140920557834,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Shakencano,-,1.450651329859175,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Candy Latte,-,1.4484966447735514,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Vanilla Latte,-,1.4469564190877855,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Basic Latte,Hot Houseblend,1.4468851748714042,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Cappuccino,Hot Houseblend,1.444792687206009,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Basic Latte,Ice Houseblend,1.443474340115107,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Menu Gedhe,Candy Latte (Gedhe),-,1.4392101193145934,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Menu Gedhe,WHITE,Houseblend,1.4383356500549496,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Espresso Arabica,Basic Espresso,1.4333846268677792,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Menu Gedhe,Green Thai Tea (Gedhe),-,1.4313853993263717,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Menu Gedhe,BLACK,-,1.4291989568522976,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Cappuccino,Ice Arabica,1.4285950118433024,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Tea,Jasmine,Hot,1.4273329563117185,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Menu Gedhe,Apple Pie Latte (Gedhe),-,1.4273093636204421,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Americano,Hot Houseblend,1.4210590321091254,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Other,Forbidden Berry,-,1.4181519578379886,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Tea,Moody,-,1.4168070517811455,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Tea,Red Apple,-,1.4117974674794505,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Other,Sunset,-,1.411140399858072,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Menu Gedhe,Not Tiramisu Latte (Gedhe),-,1.4097047154396423,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Snacks,Burnt Sugar,-,1.4089153519670554,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Friendly Coffee,Ice double shot,1.3981492411911152,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Tea,Chamomile,-,1.3967604588411826,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Menu Gedhe,Chocolate (Gedhe),-,1.394823338380734,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Snacks,Waffle,-,1.3933487333060364,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Add on,Extra Shot,Arabica,1.3924594153795171,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Menu Gedhe,BLACK,Arabica,1.391915421866928,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Add on,Susu Oat,-,1.3918539006853166,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Basic Latte,Hot Arabica,1.3878939632282499,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Menu Gedhe,Biru (Gedhe),-,1.3851829740712074,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Friendly Coffee,Hot double shot,1.3829010254705398,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Menu Gedhe,Friendly Coffee (Gedhe),-,1.3811149574179167,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Menu Gedhe,Candy Latte (Gedhe),-,1.3802911162845322,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Menu Gedhe,Matcha Latte (Gedhe),-,1.3785537262791683,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Menu Gedhe,Matchapresso (Gedhe),-,1.3774930856353729,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Basic Latte,Ice Arabica,1.375366595954826,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Menu Gedhe,Butterscotch Latte (Gedhe),-,1.3724330415908832,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Menu Gedhe,BLACK,Houseblend,1.371392675392349,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP003,Coffee,Cappuccino,Ice Houseblend,1.3713644185948133,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Other,Matcha Latte,Hot,1.371026189058732,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Espresso Arabica,On The Rock,1.3708750052019516,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Tea,Soft Tea,-,1.3707093680822222,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Butterscotch,-,1.364877644435941,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Biru,-,1.364182046681271,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Matchapresso,-,1.3602892177260117,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Other,Air Mineral,-,1.359706722140423,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Other,Chocolate,Hot,1.3582422695800074,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Friendly Coffee,Hot,1.3565603138404534,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Other,Jus Semangka,-,1.3559699672059222,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Add on,Upgrade Beans (Arabica),-,1.3536435975790604,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Apple Pie Latte,-,1.3471648893321468,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Other,Lemons,-,1.3413475182939285,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Add on,Extra Shot,Houseblend,1.3403453725606296,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Tea,Nostaltea,-,1.3398083131306646,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Hazelnut Latte,-,1.3355413224222914,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Tea,Jasmine,Ice,1.3346423682600275,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Other,Creamy Chocolate Cake,-,1.3338399403623555,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Snacks,Pisang Coklat,-,1.3331621790765706,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Not Tiramisu Latte,-,1.332344180737188,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Cappuccino,Hot Arabica,1.330873030259231,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Tea,Lemon Tea,Ice,1.3291053186347273,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Other,Creamy Klepon,-,1.3270922672729626,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Tea,Lemon Tea,Hot,1.3270740801330378,1.0,2.0,4.0,3,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Menu Gedhe,Vanilla Latte (Gedhe),-,1.3251636309140022,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Other,Black Rice,Hot,1.3243842678136153,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Espresso Houseblend,Basic Espresso,1.3236156421584226,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Other,Chocolate,Ice,1.3223938876988228,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Tea,Thai Tea,-,1.3211706706420951,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Americano,Hot Arabica,1.3199943754483636,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Tea,Green Thai Tea,-,1.319212131210866,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Snacks,Banana Bread,Chocolate,1.31316554140015,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Shakencano,-,1.3127799834865053,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Menu Gedhe,Hazelnut Latte (Gedhe),-,1.3087460665258956,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Other,Matcha Latte,Ice,1.306300580889441,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Basic Latte,Ice Houseblend,1.3050849891641554,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Tea,Moody,-,1.3015644087441733,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Other,Black Rice,Ice,1.2991409545306747,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Other,Berry Cake,-,1.295920203282924,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Snacks,Nutella Meses,-,1.2927195969236067,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Candy Latte,-,1.2923161041590356,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Snacks,Croffle,-,1.2851137269277846,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Coffee,Basic Latte,Hot Houseblend,1.2794776917854465,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Tea,Green Apple,-,1.2597363512302164,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Tea,Summer,-,1.2591771105445861,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Snacks,Donat Polos,-,1.2558021996715143,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Other,Sunset,-,1.2546210157434652,2.0,2.0,4.0,2,Restock,Tambah stok/produksi
+2025-10-01,SHOP002,Snacks,Gula Gula,-,1.2520237334556712,2.0,2.0,4.0,2,Restock,Tambah stok/produksi

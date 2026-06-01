@@ -1,0 +1,22 @@
+
+Proyek: AI-Based Business Intelligence untuk UMKM F&B multi-outlet.
+Tujuan: analisis penjualan, prediksi demand, dan rekomendasi stok/produksi.
+
+Model terbaik: RandomForestRegressor Fast - Loaded
+
+Evaluasi item-level:
+MAE: 0.6133
+RMSE: 0.7466
+R2: 0.0383
+MAE/Mean Ratio: 41.11%
+
+Evaluasi agregasi harian:
+MAE: 9.0797
+RMSE: 10.5926
+R2: 0.4305
+MAE/Mean Ratio: 5.15%
+
+Rekomendasi:
+Restock: 282
+Aman: 0
+Overstock: 0

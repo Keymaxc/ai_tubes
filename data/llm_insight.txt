@@ -1,0 +1,10 @@
+
+# Insight Otomatis
+
+Dashboard ini menunjukkan implementasi AI-Based Business Intelligence untuk UMKM F&B multi-outlet. Sistem menganalisis transaksi penjualan, memprediksi demand, dan menghasilkan rekomendasi stok/produksi.
+
+Model terbaik yang digunakan adalah **RandomForestRegressor Fast - Loaded**. Pada evaluasi agregasi harian, model memperoleh MAE sebesar **9.08** dan MAE/Mean Ratio sebesar **5.15%**. Nilai ini menunjukkan rata-rata kesalahan prediksi dibandingkan rata-rata demand harian.
+
+Dari sisi rekomendasi, terdapat **282** item yang perlu restock atau peningkatan produksi, **0** item dalam kondisi aman, dan **0** item yang berpotensi kelebihan stok.
+
+Karena dataset tidak memiliki stok aktual, rekomendasi stok pada dashboard ini bersifat estimasi berbasis pola historis dan hasil prediksi demand. Untuk pengembangan selanjutnya, sistem sebaiknya ditambah data stok aktual, promo, event, hari libur, dan biaya bahan baku agar rekomendasi lebih presisi.
